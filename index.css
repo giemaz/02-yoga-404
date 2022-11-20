@@ -127,19 +127,19 @@ a {
   justify-content: space-between;
   list-style: none;
 }
-.main_nav li:hover {
-  color: var(--text-color-focus);
-  border-bottom: 2px solid;
-  border-color: var(--text-color-focus);
-}
 
 .main_nav li {
-  display: inline;
+  display: inline-block;
+  padding: 0.5em;
   color: var(--text-color);
 }
 .main_nav li a {
   color: var(--text-color);
   font-family: var(--decorative-font);
+}
+.main_nav li a:hover {
+  color: var(--text-color-focus);
+  border-bottom: 2px solid var(--text-color-focus);
 }
 
 @media only screen and (max-width: 992px) {
