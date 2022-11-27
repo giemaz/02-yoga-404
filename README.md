@@ -4,7 +4,7 @@
 
 This project is for educational purposes. Site published at: https://giemaz.github.io/02-yoga-404/
 
-Design: [Happy Weekend] (./img/yoga-design.webp)
+Design: [Yoga-404] (./img/yoga-design.webp)
 
 ## 🎯 Project features/goals
 
